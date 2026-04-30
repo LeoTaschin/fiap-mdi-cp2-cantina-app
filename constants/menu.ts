@@ -44,7 +44,7 @@ export const MENU_ITEMS: MenuItem[] = [
     id: 'm5',
     name: 'Açaí com Granola',
     category: 'Sobremesa',
-    description: 'Açaí gelado com granola crocante e mel.',
+    description: 'Açaí gelado com granola crocante, mel e fruta fresca da estação.',
     price: 15.0,
     color: '#8B5CF6',
   },
