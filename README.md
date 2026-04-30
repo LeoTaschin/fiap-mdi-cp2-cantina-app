@@ -60,6 +60,10 @@ README.md
 
 ## 🚀 Como rodar
 
+### Contribuições do time
+
+Este projeto foi desenvolvido em equipe com commits simulados para os integrantes do grupo, incluindo ajustes no README, interface e descrições do cardápio.
+
 ### Pré-requisitos
 
 - Node.js 16+
