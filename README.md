@@ -57,8 +57,11 @@ constants/
 package.json
 README.md
 ```
+## 🎬 Demonstração completa
 
-[![Demo Completa](https://img.shields.io/badge/Demo-YouTube-red)](https://youtube.com/shorts/d7WT4NTsNZ0?feature=share)
+[![Demo FIAP Cantina](https://img.youtube.com/vi/SEU_VIDEO_ID/0.jpg)](https://youtube.com/shorts/d7WT4NTsNZ0?feature=share)
+
+*Vídeo completo (1:10) mostrando o fluxo: cadastro → login → navegação → carrinho → pedido*
 
 ## 🖼️ Prints do aplicativo
 
