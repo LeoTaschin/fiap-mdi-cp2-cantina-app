@@ -100,7 +100,7 @@ Este projeto foi desenvolvido em equipe com commits simulados para os integrante
 ### Comandos
 
 ```bash
-cd /Users/leotaschin/Downloads/fiap-mdi-cp1-checkpoint-tracker-main
+cd /Downloads/fiap-mdi-cp1-checkpoint-tracker-main
 npm install
 npm start
 ```
