@@ -47,7 +47,7 @@ export default function HomeScreen() {
             activeOpacity={0.8}
             onPress={() => addToCart(item.id)}
           >
-            <Text style={[styles.addButtonText, { color: colors.background }]}>Adicionar</Text>
+            <Text style={[styles.addButtonText, { color: colors.background }]}>Adicionar ao carrinho</Text>
           </TouchableOpacity>
         </View>
       </View>
