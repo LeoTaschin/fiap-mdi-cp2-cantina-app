@@ -40,7 +40,7 @@ export default function OrdersScreen() {
   return (
     <SafeAreaView style={[styles.container, { backgroundColor: colors.background }]}> 
       <View style={styles.header}>
-        <Text style={[styles.title, { color: colors.primary }]}>Pedidos e Carrinho</Text>
+        <Text style={[styles.title, { color: colors.primary }]}>Pedidos da Cantina</Text>
         <Text style={[styles.subtitle, { color: colors.text }]}>Confira seus itens e finalize com segurança.</Text>
       </View>
 
