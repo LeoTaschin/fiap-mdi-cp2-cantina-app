@@ -58,7 +58,34 @@ package.json
 README.md
 ```
 
-## 🚀 Como rodar
+## �️ Prints do aplicativo
+
+### Tela inicial do cardápio
+![Cardápio FIAP](assets/images/screenshot-home.png)
+
+A tela inicial exibe o menu da cantina, com o contador de itens no carrinho e favoritos, além dos cards de produtos com botão `Adicionar ao carrinho`.
+
+### Tela de pedidos
+![Pedidos da Cantina](assets/images/screenshot-orders.png)
+
+A tela de pedidos mostra o carrinho atual, os botões de finalizar pedido e limpar carrinho, e o histórico de pedidos já realizados.
+
+### Tela de perfil
+![Perfil do usuário](assets/images/screenshot-profile.png)
+
+A tela de perfil apresenta os dados do usuário, o resumo de atividades (pedidos, carrinho e favoritos) e o controle de modo escuro.
+
+### Tela de login
+![Login de aluno](assets/images/screenshot-login.png)
+
+A tela de login permite que o aluno faça autenticação com e-mail e senha, mostrando validação de campos em tempo real.
+
+### Tela de cadastro
+![Cadastro de aluno](assets/images/screenshot-register.png)
+
+A tela de cadastro coleta nome completo, e-mail, senha e confirmação de senha para criar uma nova conta.
+
+## �🚀 Como rodar
 
 ### Contribuições do time
 

@@ -48,7 +48,7 @@ export default function OrdersScreen() {
         <ActivityIndicator size="large" color={colors.primary} style={styles.loading} />
       ) : (
         <FlatList
-          data={cartItems}
+          data={orders}
           keyExtractor={(item) => item.id}
           ListHeaderComponent={
             <>
