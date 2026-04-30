@@ -58,6 +58,8 @@ package.json
 README.md
 ```
 
+[![Demo Completa](https://img.shields.io/badge/Demo-YouTube-red)](https://youtube.com/shorts/d7WT4NTsNZ0?feature=share)
+
 ## 🖼️ Prints do aplicativo
 
 ### Tela inicial do cardápio
